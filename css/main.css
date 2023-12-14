@@ -4,7 +4,7 @@
     --main-color: #2b293a;
     --main-color-lighter: #ebe9f3;
     --accent-color: #6fdd68;
-    --accent-darker: #66bb5f;
+    --accent-darker: #58a352;
     --neutral-color: #dbdbdb;
     --contrast-text: #28282A;
     --grey-text: #6E6E70;
@@ -696,6 +696,7 @@ header {
     top: 0;
     width: 100%;
     backdrop-filter: blur(10px);
+    box-shadow: 0 0 5px rgb(0 0 0 / 5%);
 }
 
 .header_container {
@@ -789,7 +790,7 @@ span {
 }
 
 .gradient-text {
-    background: linear-gradient(var(--accent-darker), var(--accent-color), var(--accent-darker));
+    background: linear-gradient(var(--accent-darker), var(--accent-color));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -1515,6 +1516,12 @@ label {
 @media (max-width: 768px) {
     .header__logo {
         max-width: 80px;
+    }
+    .mobile-menu a.active{
+        color: var(--accent-darker);
+    }
+    .mobile-menu a.active::after{
+        background: none;
     }
 
     .header_container .btn-primary {

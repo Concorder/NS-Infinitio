@@ -5,35 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="677ed2e2-45d3-4816-b2fb-0df360761ba6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/3d/earth/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/earth/scene.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/earth/scene.gltf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/earth/textures/Material.001_baseColor.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/earth_night/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/earth_night/scene.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/earth_night/scene.gltf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/earth_night/textures/Planet_diffuse.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/earthquakes/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/earthquakes/scene.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/earthquakes/scene.gltf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/modern-oval-notch-smartphone-realistic-mockup/modern_oval_notch_smartphone_realistic_mockup.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/modern-oval-notch-smartphone-realistic-mockup/modern_oval_notch_smartphone_realistic_mockup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/planet_earth/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/planet_earth/scene.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/planet_earth/scene.gltf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/planet_earth/textures/Material.001_diffuse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/planet_earth/textures/planeta_terra_diffuse.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/planet_earth/textures/planeta_terra_emissive.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/planet_earth/textures/planeta_terra_specularGlossiness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/stylized_planet/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/stylized_planet/scene.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/stylized_planet/scene.gltf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/stylized_planet/textures/Clouds_baseColor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d/stylized_planet/textures/Planet_baseColor.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/policy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/support.html" beforeDir="false" afterPath="$PROJECT_DIR$/support.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -156,7 +135,7 @@
       <workItem from="1702297393012" duration="9636000" />
       <workItem from="1702383096297" duration="10606000" />
       <workItem from="1702472007248" duration="9838000" />
-      <workItem from="1702564007121" duration="9658000" />
+      <workItem from="1702564007121" duration="16231000" />
     </task>
     <servers />
   </component>
