@@ -424,10 +424,6 @@ section {
     max-width: 980px;
 }
 
-.bg-grey {
-    background-color: var(--main-color);
-}
-
 .bg-main-light {
     background-color: var(--main-color-lighter);
 }
@@ -1371,6 +1367,10 @@ h1.cta {
     z-index: 1;
 }
 
+.terms h1, .terms h2 {
+    text-align: center;
+}
+
 .terms h3 {
     margin-top: 60px;
     margin-bottom: 30px;
@@ -1378,13 +1378,13 @@ h1.cta {
 }
 
 .terms ul {
-    color: #222;
+    color: var(--main-color);
     font-weight: 400;
     font-size: 15px;
 }
 
 .terms p {
-    color: #222;
+    color: var(--main-color);
     font-weight: 400;
     font-size: 15px;
     margin-bottom: 15px;
