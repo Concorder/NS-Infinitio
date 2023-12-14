@@ -99,26 +99,32 @@ sentences.forEach(function (target) {
     paused: false,
   });
 });
-//on screen trigger
-const blocksOnScreen = document.querySelectorAll(".onScreenTrigger")
-blocksOnScreen.forEach(function (target) {
-  gsap.to(target, {
+
+
+
+const navigationLinks = document.querySelectorAll('.company_link, .service_link');
+
+navigationLinks.forEach(link => {
+  const targetSelector = link.getAttribute('href');
+  const section = document.querySelector(targetSelector);
+
+  gsap.to(link, {
     scrollTrigger: {
-      trigger: target,
-      start: "top bottom",
-      end: "bottom top",
-      scrub: 1,
-      markers: false,
-      toggleClass: "onScreen",
+      trigger: section,
+      start: 'top 50%',
+      end: 'bottom 50%',
+      onToggle: self => {
+        if (self.isActive) {
+          link.classList.add('active');
+        } else {
+          link.classList.remove('active');
+        }
+      },
+      // markers: true, // Remove this line in production
     },
-    delay: .3,
-    repeat: 0,
-    repeatDelay: 0,
-    ease: "power0",
-    duration: 1,
-    paused: false,
   });
 });
+
 
 // splashtext
 function splashText() {

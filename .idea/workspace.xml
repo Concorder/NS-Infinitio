@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="677ed2e2-45d3-4816-b2fb-0df360761ba6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/3d/earth/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/earth/scene.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/earth/scene.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/earth/textures/Material.001_baseColor.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/earth_night/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/earth_night/scene.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/earth_night/scene.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/earth_night/textures/Planet_diffuse.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/earthquakes/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/earthquakes/scene.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/earthquakes/scene.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/modern-oval-notch-smartphone-realistic-mockup/modern_oval_notch_smartphone_realistic_mockup.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/modern-oval-notch-smartphone-realistic-mockup/modern_oval_notch_smartphone_realistic_mockup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/planet_earth/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/planet_earth/scene.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/planet_earth/scene.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/planet_earth/textures/Material.001_diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/planet_earth/textures/planeta_terra_diffuse.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/planet_earth/textures/planeta_terra_emissive.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/planet_earth/textures/planeta_terra_specularGlossiness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/stylized_planet/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/stylized_planet/scene.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/stylized_planet/scene.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/stylized_planet/textures/Clouds_baseColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d/stylized_planet/textures/Planet_baseColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/support.html" beforeDir="false" afterPath="$PROJECT_DIR$/support.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Uy4gULPv6hiFaSREorOGJ4EpHL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/[Work]/NetsmartWeb&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\[Work]\NetsmartWeb" />
+      <recent name="D:\[Work]\NetsmartWeb\img" />
+      <recent name="D:\[Work]\NetsmartWeb\3d" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="677ed2e2-45d3-4816-b2fb-0df360761ba6" name="Changes" comment="" />
+      <created>1693898597875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693898597875</updated>
+      <workItem from="1693898599830" duration="9613000" />
+      <workItem from="1693991704708" duration="12964000" />
+      <workItem from="1694074005119" duration="15474000" />
+      <workItem from="1694252299063" duration="5555000" />
+      <workItem from="1694347108926" duration="4883000" />
+      <workItem from="1694437846965" duration="5681000" />
+      <workItem from="1694513987711" duration="6125000" />
+      <workItem from="1694569316900" duration="3310000" />
+      <workItem from="1694713534393" duration="16259000" />
+      <workItem from="1694809412980" duration="9527000" />
+      <workItem from="1694923108696" duration="7646000" />
+      <workItem from="1694983274085" duration="1854000" />
+      <workItem from="1695015268620" duration="19786000" />
+      <workItem from="1695099644066" duration="3253000" />
+      <workItem from="1695192715559" duration="6380000" />
+      <workItem from="1695208043345" duration="490000" />
+      <workItem from="1695213217013" duration="4328000" />
+      <workItem from="1695219353298" duration="249000" />
+      <workItem from="1695277208464" duration="3019000" />
+      <workItem from="1695295705631" duration="3912000" />
+      <workItem from="1695363433626" duration="25994000" />
+      <workItem from="1695458734703" duration="3296000" />
+      <workItem from="1695538045701" duration="5408000" />
+      <workItem from="1695581190938" duration="3969000" />
+      <workItem from="1695631245746" duration="866000" />
+      <workItem from="1695808392258" duration="10116000" />
+      <workItem from="1695984924497" duration="6598000" />
+      <workItem from="1695995442821" duration="5456000" />
+      <workItem from="1696073203960" duration="4805000" />
+      <workItem from="1696083165887" duration="612000" />
+      <workItem from="1696263808495" duration="11586000" />
+      <workItem from="1696342520050" duration="3913000" />
+      <workItem from="1696438905027" duration="595000" />
+      <workItem from="1696509799318" duration="14558000" />
+      <workItem from="1696597759887" duration="3877000" />
+      <workItem from="1696924394857" duration="9291000" />
+      <workItem from="1697090697495" duration="879000" />
+      <workItem from="1697096756736" duration="3402000" />
+      <workItem from="1697215328135" duration="1486000" />
+      <workItem from="1697270780830" duration="5055000" />
+      <workItem from="1697353895112" duration="19401000" />
+      <workItem from="1697438288068" duration="11090000" />
+      <workItem from="1697534848364" duration="116000" />
+      <workItem from="1698328170596" duration="8020000" />
+      <workItem from="1698415160736" duration="15000" />
+      <workItem from="1698448519525" duration="1833000" />
+      <workItem from="1698483222157" duration="8418000" />
+      <workItem from="1698863460256" duration="605000" />
+      <workItem from="1698938985022" duration="13887000" />
+      <workItem from="1698980971814" duration="7731000" />
+      <workItem from="1698997516422" duration="356000" />
+      <workItem from="1699065739502" duration="266000" />
+      <workItem from="1699155808886" duration="6713000" />
+      <workItem from="1699185169003" duration="1291000" />
+      <workItem from="1700053561340" duration="2849000" />
+      <workItem from="1700139386260" duration="610000" />
+      <workItem from="1701958514303" duration="3513000" />
+      <workItem from="1702030310881" duration="611000" />
+      <workItem from="1702033653282" duration="9213000" />
+      <workItem from="1702121282707" duration="2134000" />
+      <workItem from="1702133872452" duration="1223000" />
+      <workItem from="1702153976656" duration="8374000" />
+      <workItem from="1702297393012" duration="9636000" />
+      <workItem from="1702383096297" duration="10606000" />
+      <workItem from="1702472007248" duration="9838000" />
+      <workItem from="1702564007121" duration="9658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
