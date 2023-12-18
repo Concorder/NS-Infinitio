@@ -282,7 +282,7 @@ h1, h2, h3 {
 
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-weight: 400;
 }
 
@@ -440,7 +440,7 @@ section {
 }
 
 .bg-gradient {
-    background-image: linear-gradient(var(--main-color), var(--grey-text));
+    background-image: linear-gradient(135deg,var(--main-color), var(--accent-color));
     background-size: 200% 200%;
     background-repeat: no-repeat;
 }
@@ -718,7 +718,7 @@ header {
 
 .logoCenter {
     width: auto;
-    height: 36px;
+    max-width: 150px;
 }
 
 nav {
@@ -1261,6 +1261,7 @@ h1.cta {
     height: 30px;
     max-width: 35px;
     fill: var(--main-color);
+    filter: drop-shadow(1px 1px 1px #0000002b);
 }
 
 .code-container {
@@ -1516,6 +1517,21 @@ label {
     padding: 20px;
 }
 
+@media (max-width: 992px) {
+    .cases-dcb .rounded_container {
+        height: 230px;
+    }
+    .contactForm{
+        max-width: 420px;
+        margin: auto;
+    }
+    .logoCenter {
+        position: relative;
+        left: unset;
+        transform: none;
+    }
+}
+
 @media (max-width: 768px) {
     .header__logo {
         max-width: 80px;
@@ -1604,6 +1620,7 @@ label {
         text-align: center;
     }
 
+
     .grid-container .rounded_container {
         text-align: left;
     }
@@ -1660,6 +1677,22 @@ label {
         width: 100%;
     }
 
+    footer .logoCenter {
+        position: relative;
+        transform: unset;
+        left: unset;
+        margin: 30px auto;
+    }
+    .footer_second{
+        text-align: center;
+    }
+    .footer_second svg{
+        margin-bottom: 30px;
+    }
+
+    footer > div {
+        flex-direction: column;
+    }
 }
 
 @media (max-width: 492px) {
@@ -1683,9 +1716,7 @@ label {
     }.xs-order-4{
         order: 4;
     }
-    .cases-dcb .rounded_container {
-        height: 230px;
-    }
+
 
     .herobanner {
         padding-top: 30px;
@@ -1751,16 +1782,9 @@ label {
         display: block;
     }
 
-    footer .logoCenter {
-        position: relative;
-        transform: unset;
-        left: unset;
-        margin: 30px auto;
-    }
 
-    footer > div {
-        flex-direction: column;
-    }
+
+
 
 }
 
